@@ -17,4 +17,4 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
 
 ##Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaMilo&layout=compact)](https://github.com/thaMilo/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaMilo&layout=compact)](https://github.com/thaMilo/github-readme-stats)
