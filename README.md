@@ -1,5 +1,6 @@
 # thaMilo🔥
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/vapor-wave-aesthetic.gif)
+
 I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di Genova). I really like java and object oriented programming, I mean that's my jam! Looking forward to become a professional programmer and as someone would say "May the force be with me🗡⭐️" on this journey.
 
 ## Skills and Experience
