@@ -15,4 +15,4 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thaMilo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/milhouse_ga)  
 
-![thaMilo github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&theme=merko&show_icons=true)
+![thaMilo github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&theme=cobalt&show_icons=true)
