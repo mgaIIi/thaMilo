@@ -15,4 +15,6 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
   <img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" style="display: inline-block; width:50px;"/>
 </div>
 
+## Stats
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&show_icons=true&theme=synthwave)
