@@ -4,4 +4,4 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
 Looking forward to become a professional programmer and as someone would say 
 "May the force be with me🗡⭐️" on this journey.
 
-![thaMilo github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&theme=cobalt&show_icons=true)
+![thaMilo github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&theme=dracula&show_icons=true)
