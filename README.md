@@ -3,9 +3,7 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
 
 ## Skills and Experience
 <div>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" style="display: inline-block; width:50px; margin:10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" style="display: inline-block; width:50px; margin:10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" style="display: inline-block; width:50px; margin:10px;"/>
-  
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" style="display: inline-block; width:50px; margin-left:30px;"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" style="display: inline-block; width:50px; margin-left:30px;"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" style="display: inline-block; width:50px; margin-left:30px;"/>
 </div>
-![thaMilo github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&theme=prussian&show_icons=true)
