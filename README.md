@@ -10,7 +10,6 @@ I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di 
   <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" style="display: inline-block; width:50px;"/>
    <img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" style="display: inline-block; width:50px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" style="display: inline-block; width:50px;"/>
-   <img src="https://github.com/thaMilo/thaMilo/blob/main/tailw.png" style="display: inline-block; width:50px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/js.png" style="display: inline-block; width:50px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/php.png" style="display: inline-block; width:50px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" style="display: inline-block; width:50px;"/>
