@@ -1,7 +1,8 @@
 # Hello World, I'm Milo
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/vapor-wave-aesthetic.gif)
 
-I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di Genova). Looking forward to become a professional programmer and as someone would say "May the force be with me🗡⭐️" on this journey.
+I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di Genova). 
+Looking forward to become a professional programmer and as someone would say "May the force be with me🗡⭐️" on this journey.
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
