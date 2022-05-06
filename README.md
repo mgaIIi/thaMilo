@@ -26,6 +26,7 @@ Looking forward to become a professional programmer and as someone would say "Ma
   <a href="https://www.instagram.com/itsmemjlo/?hl=it"><img src="https://github.com/thaMilo/thaMilo/blob/main/instagram.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/></a>
   <a href="https://www.linkedin.com/in/milo-galli-2bb1a6198"><img src="https://github.com/thaMilo/thaMilo/blob/main/linkedin.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/></a>
 </div>
+
 ## Stats
 
 ![Milo's github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&show_icons=true&theme=synthwave)
