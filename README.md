@@ -21,6 +21,11 @@ Looking forward to become a professional programmer and as someone would say "Ma
   <img src="https://github.com/thaMilo/thaMilo/blob/main/selenium.png" style="display: inline-block;width:50px; height:50px; margin: 10px;"/> 
 </div>
 
+## Connect with me
+<div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
+</div>
 ## Stats
 
 ![Milo's github stats](https://github-readme-stats.vercel.app/api?username=thaMilo&show_icons=true&theme=synthwave)
