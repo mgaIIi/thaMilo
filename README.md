@@ -9,7 +9,7 @@ Looking forward to become a professional programmer and as someone would say "Ma
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
   <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/flask.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
