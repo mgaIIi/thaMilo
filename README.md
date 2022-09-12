@@ -7,25 +7,25 @@ Looking forward to become a professional programmer and as someone would say "Ma
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/js.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/svelte.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/react.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/tailwind.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/php.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" style="display: inline-block; width:50px; height:50px; margin: 10px;"/>
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/selenium.png" style="display: inline-block;width:50px; height:50px; margin: 10px;"/> 
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/js.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/svelte.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/react.svg" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/tailwind.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/php.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" width="40" height="40"/>
+  <img src="https://github.com/thaMilo/thaMilo/blob/main/selenium.png" width="40" height="40"/> 
 </div>
 
 ## Connect with me
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
-  <a href="https://www.instagram.com/itsmemjlo/?hl=it"><img src="https://github.com/thaMilo/thaMilo/blob/main/instagram.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/></a>
-  <a href="https://www.linkedin.com/in/milo-galli-2bb1a6198"><img src="https://github.com/thaMilo/thaMilo/blob/main/linkedin.svg" style="display: inline-block; width:50px; height:50px; margin: 10px;"/></a>
+  <a href="https://www.instagram.com/itsmemjlo/?hl=it"><img src="https://github.com/thaMilo/thaMilo/blob/main/instagram.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/milo-galli-2bb1a6198"><img src="https://github.com/thaMilo/thaMilo/blob/main/linkedin.svg"  width="40" height="40" /></a>
 </div>
 
 ## Stats
