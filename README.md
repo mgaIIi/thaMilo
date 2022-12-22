@@ -8,9 +8,6 @@ Part time artist.
 
 #### Society grows great when old men plant trees whose shade they know they shall never sit in
 
-<br>
-Looking forward to become a professional programmer and as someone would say "May the force be with me🗡⭐️" on this journey.
-
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
   <a href="https://www.java.com/en/"><img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/></a>
