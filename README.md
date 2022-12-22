@@ -7,7 +7,7 @@ Looking forward to become a professional programmer and as someone would say "Ma
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
-  <img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/>
+  <a href="https://www.java.com/en/"><img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/></a>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" width="40" height="40"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" width="40" height="40"/>
   <img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" width="40" height="40"/>
