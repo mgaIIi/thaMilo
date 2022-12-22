@@ -1,5 +1,5 @@
 # Hello World, I'm Milo
-![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpg)
+![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpeg)
 
 I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di Genova).
 <br>
