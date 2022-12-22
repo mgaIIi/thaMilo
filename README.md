@@ -1,13 +1,13 @@
 # Hi folks, welcome to my little strange world
-## Society grows great when old men plant trees whose shade they know they shall never sit in
+## " Society grows great when old men plant trees whose shade they know they shall never sit in "
 <br/>
 
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpeg)
 
-Got bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
-Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
-Full Stack Developer.
-Part time artist.
+### Got bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
+### Full Stack Developer.
+### Part time artist.
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
