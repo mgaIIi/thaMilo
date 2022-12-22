@@ -12,6 +12,7 @@ Looking forward to become a professional programmer and as someone would say "Ma
   <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" width="40" height="40"/></a>
   <a href="https://cplusplus.com/"><img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" width="40" height="40"/></a>
   <a href="https://go.dev/"><img src="https://github.com/thaMilo/thaMilo/blob/main/go.png" width="55" height="40"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/rust.png" width="55" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/thaMilo/thaMilo/blob/main/js.png" width="40" height="40"/></a>
