@@ -1,5 +1,5 @@
 # Hi folks, welcome to my little strange world
-## " Society grows great when old men plant trees whose shade they know they shall never sit in "
+### " Society grows great when old men plant trees whose shade they know they shall never sit in "
 <br/>
 
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpeg)
