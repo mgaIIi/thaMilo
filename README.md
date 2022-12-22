@@ -1,7 +1,13 @@
 # Hi folks, welcome to my little strange world
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpeg)
 
-I'm Milo Galli and I'm currently a student at UNIGE (Università degli studi di Genova).
+Got bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
+Full Stack Developer.
+Part time artist.
+
+#### Society grows great when old men plant trees whose shade they know they shall never sit in
+
 <br>
 Looking forward to become a professional programmer and as someone would say "May the force be with me🗡⭐️" on this journey.
 
