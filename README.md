@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/thaMilo/thaMilo/blob/main/minosses.jpeg)
 
-### Got bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+### Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
 ### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
 ### Full Stack Developer.
 ### Mobile Developer.
