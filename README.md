@@ -1,4 +1,4 @@
-# Hi folks, welcome to my little strange world
+# Hi folks, I'm Milo 👋
 ### " Society grows great when old men plant trees whose shade they know they shall never sit in "
 <br/>
 
