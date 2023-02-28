@@ -32,5 +32,4 @@
   <a href="https://www.instagram.com/itsmemjlo/?hl=it"><img src="https://github.com/thaMilo/thaMilo/blob/main/instagram.svg" width="40" height="40" /></a>
   <a href="https://www.linkedin.com/in/milo-galli-2bb1a6198"><img src="https://github.com/thaMilo/thaMilo/blob/main/linkedin.svg"  width="40" height="40"/></a>
     <a href="https://twitter.com/itsmemjlo"><img src="https://github.com/thaMilo/thaMilo/blob/main/twitter.svg"  width="40" height="40"/></a>
-    <a href="https://opensea.io/The_end_was_their_fault"><img src="https://github.com/thaMilo/thaMilo/blob/main/itwastheirfault.png" width="40" height="40"/></a>
 </div>
