@@ -1,11 +1,11 @@
 # Hi folks, I'm Milo 👋
-### " Society grows great when old men plant trees whose shade they know they shall never sit in "
-### Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
-### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
-### Full Stack Developer.
-### Mobile Developer.
-### UI/UX Artist.
-### Part time artist.
+#### " Society grows great when old men plant trees whose shade they know they shall never sit in "
+#### Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+#### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
+#### Full Stack Developer.
+#### Mobile Developer.
+#### UI/UX Artist.
+#### Part time artist.
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
