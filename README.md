@@ -1,4 +1,4 @@
-# Hi folks, I'm Milo 👋
+# Hi folks, I'm Milo 🌀
 ## " Society grows great when old men plant trees whose shade they know they shall never sit in "
 #### Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
 #### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
