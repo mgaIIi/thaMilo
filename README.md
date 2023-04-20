@@ -5,7 +5,6 @@
 #### Full Stack Developer.
 #### Mobile Developer.
 #### UI/UX Artist.
-#### Part time artist.
 
 ## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
