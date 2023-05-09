@@ -17,7 +17,7 @@
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/thaMilo/thaMilo/blob/main/html.png" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/thaMilo/thaMilo/blob/main/css-3.png" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/thaMilo/thaMilo/blob/main/js.png" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://github.com/thaMilo/thaMilo/blob/main/ts.png" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://github.com/thaMilo/thaMilo/blob/main/ts.png" width="40" height="40"/></a>
   <a href="https://svelte.dev/"><img src="https://github.com/thaMilo/thaMilo/blob/main/svelte.png" width="40" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/react.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/thaMilo/thaMilo/blob/main/tailwind.png" width="40" height="40"/></a>
