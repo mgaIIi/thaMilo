@@ -13,7 +13,6 @@ UI/UX Artist.
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
   <a href="https://www.java.com/en/"><img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" width="40" height="40"/></a>
   <a href="https://cplusplus.com/"><img src="https://github.com/thaMilo/thaMilo/blob/main/c-.png" width="40" height="40"/></a>
   <a href="https://go.dev/"><img src="https://github.com/thaMilo/thaMilo/blob/main/go.png" width="50" height="40"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/rust.png" width="55" height="40"/></a>
@@ -25,6 +24,7 @@ UI/UX Artist.
   <a href="https://reactjs.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/react.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/thaMilo/thaMilo/blob/main/tailwind.png" width="40" height="40"/></a>
   <a href="https://www.php.net/"><img src="https://github.com/thaMilo/thaMilo/blob/main/php.png" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://github.com/thaMilo/thaMilo/blob/main/flask.svg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" width="40" height="40"/></a>
   <a href="https://www.selenium.dev/"><img src="https://github.com/thaMilo/thaMilo/blob/main/selenium.png" width="40" height="40"/></a>
 </div>
