@@ -28,10 +28,3 @@ UI/UX Artist.
   <a href="https://www.postgresql.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/postgre.png" width="40" height="40"/></a>
   <a href="https://www.selenium.dev/"><img src="https://github.com/thaMilo/thaMilo/blob/main/selenium.png" width="40" height="40"/></a>
 </div>
-
-## Connect with me
-<div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
-  <a href="https://www.instagram.com/itsmemjlo/?hl=it"><img src="https://github.com/thaMilo/thaMilo/blob/main/instagram.svg" width="40" height="40" /></a>
-  <a href="https://www.linkedin.com/in/milo-galli-2bb1a6198"><img src="https://github.com/thaMilo/thaMilo/blob/main/linkedin.svg"  width="40" height="40"/></a>
-    <a href="https://twitter.com/itsmemjlo"><img src="https://github.com/thaMilo/thaMilo/blob/main/twitter.svg"  width="40" height="40"/></a>
-</div>
