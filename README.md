@@ -1,12 +1,11 @@
-# Hi folks, I'm Milo 🌀
+# Hi folks, I'm Milo 
 
-#### Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
-#### Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
-#### Full Stack Developer.
-#### Mobile Developer.
-#### UI/UX Artist.
+Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
+Full Stack Developer.
+Mobile Developer.
+UI/UX Artist.
 
-## Skills and Experience
 <div style="display: flex; align-items: center; justify-content: center; height: 2rem;">
   <a href="https://www.java.com/en/"><img src="https://github.com/thaMilo/thaMilo/blob/main/java.png" width="40" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://github.com/thaMilo/thaMilo/blob/main/python.png" width="40" height="40"/></a>
