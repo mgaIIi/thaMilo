@@ -1,6 +1,7 @@
 # Hi folks, I'm Milo 
 
 Bachelor's degree in Computer Science at UNIGE - Università degli studi di Genova.
+<br>
 Currently attending the Computer Science - Software Security Track in the Master's Degree course at UNIGE.
 <br>
 Full Stack Developer.
