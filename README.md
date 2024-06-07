@@ -11,3 +11,7 @@ Low Level Coder.
 <br>
 UI/UX Artist.
 <br>
+
+🦖 Socials
+---
+<a href="https://mastodon.social/home">Mastodon</a>
