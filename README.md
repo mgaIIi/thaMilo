@@ -14,4 +14,4 @@ UI/UX Artist.
 
 🦖 Socials
 ---
-<a href="https://mastodon.social/home">Mastodon</a>
+<a href="https://mastodon.social/home"><img src=""/></a>
