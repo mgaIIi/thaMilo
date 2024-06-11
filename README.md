@@ -14,4 +14,4 @@ UI/UX Artist.
 
 🦖 Socials
 ---
-<a href="@itsmemjlo@mastodon.social"><img src="https://github.com/thaMilo/thaMilo/blob/main/mastodonlogo.svg" style="width: 30px; height: 30px;"/></a>
+<a href="https://mastodon.social/@itsmemjlo"><img src="https://github.com/thaMilo/thaMilo/blob/main/mastodonlogo.svg" style="width: 30px; height: 30px;"/></a>
