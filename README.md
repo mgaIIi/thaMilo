@@ -1,3 +1,3 @@
-![](./photo.png)
+![](./Banner.svg)
 
 
